@@ -3,4 +3,6 @@ class calculator:
         pass
     def add(self,a,b):
         return a+b
+    def multp(self,a,b):
+        return a*b
     
