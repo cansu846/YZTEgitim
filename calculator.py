@@ -8,3 +8,5 @@ class calculator:
        return NULL
       def ali(self):
        return NULL
+def eda(self):
+       return NULL
