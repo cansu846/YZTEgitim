@@ -6,4 +6,5 @@ class calculator:
        return NULL
      def derya(self):
        return NULL
-    
+      def ali(self):
+       return NULL
