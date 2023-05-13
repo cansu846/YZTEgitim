@@ -10,3 +10,5 @@ class calculator:
        return NULL
 def eda(self):
        return NULL
+def ela(self):
+       return NULL
